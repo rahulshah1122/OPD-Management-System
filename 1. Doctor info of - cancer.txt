@@ -1,0 +1,50 @@
+                                             Doctor name of Cancer department:
+***************************************************************************************************************
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 
+
+                                1. Dr Roshan Das
+
+                                   MBBS, Phd, FCPS
+                                   
+                                   Senior Consultant
+
+                                   Room No : AB.20 ( 2nd Floor )
+
+                                   Consulting Hour : 6.00 Am - 8.00Am
+
+
+                                2. Dr Rohan Das
+
+                                   MBBS, Phd, FCPS
+                                   
+                                   Senior Consultant
+
+                                   Room No : AB.20 ( 2nd Floor )
+
+                                   Consulting Hour : 8.00 Am - 10.00Am
+
+
+                                3. Dr Rakesh Das
+
+                                   MBBS, Phd, FCPS
+                                   
+                                   Senior Consultant
+
+                                   Room No : AB.20 ( 2nd Floor )
+
+                                   Consulting Hour : 10.00 Am - 12.00Pm
+
+
+                                4. Dr Santosh Aryal
+
+                                   MBBS, Phd, FCPS
+                                   
+                                   Senior Consultant
+
+                                   Room No : AB.20 ( 2nd Floor )
+
+                                   Consulting Hour : 12.00 Pm - 2.00Pm
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+***************************************************************************************************************                               
